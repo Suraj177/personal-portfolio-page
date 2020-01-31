@@ -1,1 +1,42 @@
 /* Add your CSS code here */
+<!-- Add your HTML Code here -->
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <div class="profileBody"> 
+  <title>Web Page Mock-Up</title>
+ 
+  <h1>JOHN DOE</h1>  
+  
+  <em>FRONTEND ENGINEER,UBER</em > 
+   
+  <hr />
+</head>
+<body>
+    <strong >Profile:</strong >
+    
+    
+    <p>Starting my career journey as a front end developer.Want to become proficient in html,css,javaScript plus modern libraries and frameworks.Hardworking,grity and passionate about providing the best experience and services.</p>
+       
+        
+        <hr />
+       <strong>Goals:</strong> 
+       <p>I'm upskilling myself at GreyAtom! My Goals include:</p>
+       <div id="nav">   
+       <ul>
+               <li>Learn to code</li>
+               <li>Become a front end developer  at Google</li>
+               <li>Be kind to others</li>
+           </ul>
+       </div>
+       <hr />
+           <strong>Contact Details:</strong>
+            
+          <p>You can me email me at:<a href="mail to:johndoe@greyatom.com">johndoe@greyatom.com</a></p>
+       
+
+        </div>   
+</body>
+
+</html>
